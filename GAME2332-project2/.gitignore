@@ -1,0 +1,20 @@
+#VS files
+*.db
+*.sln
+*.sdf
+*.suo
+*.log
+*.vcxproj
+*.vcxproj.filters
+Debug
+
+#CODEBLOCKS files
+*.cbp
+*.layout
+*.depend
+*bin/
+*obj/
+
+#QTCREATOR files
+*.pro
+*.pro.user
