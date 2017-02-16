@@ -1,6 +1,6 @@
 // main.cpp
 //
-// second commit
+// third commit test
 
 #include <allegro5/allegro.h>
 #include <allegro5/allegro_font.h>
