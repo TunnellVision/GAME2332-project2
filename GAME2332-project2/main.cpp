@@ -1,7 +1,7 @@
 // main.cpp
 //
 // Dinner with myself at 6:30, 7:00 the luls, 8pm stare into the abyss. I'm booked!
-// Github who's your daddy!
+// Github who's your
 
 #include <allegro5/allegro.h>
 #include <allegro5/allegro_font.h>
