@@ -1,6 +1,6 @@
 // main.cpp
 //
-// testing new vs project
+// second commit
 
 #include <allegro5/allegro.h>
 #include <allegro5/allegro_font.h>
